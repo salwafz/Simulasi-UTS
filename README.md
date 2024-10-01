@@ -27,6 +27,8 @@ Berikut adalah code java untuk menghubungkan dabatabe PostgreSQL menggunakan JDB
 </pre>
 
 ## Pembuatan User Inferface GUI menggunakan Java Swing
+![addData](https://github.com/user-attachments/assets/9dca1506-f536-469e-b3e3-d40414d2f727)
+
 
 
 
